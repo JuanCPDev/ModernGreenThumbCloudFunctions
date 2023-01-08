@@ -1,3 +1,3 @@
 # ModernGreenThumbCloudFunctions
 
-Google Firebase Cloud Functions for Modern Green Thumb notifications.
+Google Firebase Serverless Cloud Functions for Modern Green Thumb notifications.
